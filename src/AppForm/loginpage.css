@@ -1,0 +1,35 @@
+body {
+  font-weight: bolder;
+}
+.wrapper {
+  margin: auto;
+  padding: 2rem;
+}
+.ant-form {
+  width: 50%;
+  margin: auto;
+  background-color: linen;
+  margin-top: 5rem;
+}
+.content {
+  margin: auto;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 13rem;
+}
+.ant-input {
+  width: 110%;
+  padding: 0.6rem;
+}
+.btn {
+  border-radius: 10px;
+  width: 10rem;
+  height: 3rem;
+  font-size: large;
+  margin-top: 3rem;
+}
+.btn:hover {
+  background-color: orange;
+  border: none;
+  color: black;
+}
